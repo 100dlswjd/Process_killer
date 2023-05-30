@@ -1,7 +1,7 @@
 import psutil
 import time
 
-Leauge_of_legends = ["RiotClientUx.exe", "RiotClientUxRender.exe", "LeagueClientUx.exe", "LeagueClientUxRender.exe"]
+Leauge_of_legends = ["TargetProcessName"]
 
 while True:
     time.sleep(10)
